@@ -1,2 +1,4 @@
 # hello-world
-intro to github
+
+Hi my name is Daniel,
+I am very nervous in taking this class.
